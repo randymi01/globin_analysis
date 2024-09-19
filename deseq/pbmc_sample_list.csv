@@ -1,0 +1,139 @@
+SampleID,Gender,Ethnicity,Condition
+HS_42,F,Caucasian,HS
+HS_110,F,Caucasian,HS
+HS_129,F,African American,HS
+HS_132,F,Asian American,HS
+HS_157,F,Caucasian,HS
+HS_164,F,Caucasian,HS
+HS_285,M,South Asian,HS
+HS_296,F,Caucasian,HS
+HS_299,F,Caucasian,HS
+HS_300,F,Caucasian,HS
+HS_320,F,Caucasian,HS
+HS_321,F,Caucasian,HS
+HS_322,F,African American,HS
+HS_345,M,Caucasian,HS
+HS_348,M,Caucasian,HS
+HS_355,F ,Caucasian ,HS
+HS_378,M,Caucasian,HS
+HS_383,F ,Caucasian ,HS
+HS_389,F,Hispanic,HS
+HS_392,M,Middle Eastern,HS
+HS_401,F,African American ,HS
+HS_407,M,Caucasian ,HS
+HS_413,F,African American ,HS
+HS_420,F ,Caucasian ,HS
+HS_425,F,African American,HS
+HS_427,M,Caucasian,HS
+HS_429,M,Middle Eastern,HS
+HS_433,F,Caucasian,HS
+HS_438,F,African American ,HS
+HS_439,F,Caucasian ,HS
+HS_440,M,Hispanic,HS
+HS_446,F,Caucasian,HS
+HS_447,M,Caucasian,HS
+HS_449,F,Caucasian,HS
+HS_481,M,African American,HS
+HS_482,M,African American,HS
+HS_484,F,Caucasian,HS
+HS_485,F,Caucasian,HS
+HS_486,M,Caucasian,HC
+HS_487,M ,Caucasian ,HS
+HS_488,F,African American,HS
+HS_489,F,African American,HS
+HS_490,M,Caucasian,HC
+HS_491,F,Caucasian,HC
+HS_495,F ,African American ,HS
+HS_496,F,Caucasian,HS
+HS_497,F,Caucasian,HS
+HS_498,F,African American ,HS
+HS_499,M ,Middle Eastern,HS
+HS_500,F ,Middle Eastern,HS
+HS_502,M,African American,HS
+HS_503,M,Caucasian,HS
+HS_504,F,African American,HS
+HS_505,M ,Caucasian ,HS
+HS_506,F,Asian,HS
+HS_507,F,Caucasian,HS
+HS_508,M ,Caucasian ,HS
+HS_512,F,African American,HS
+HS_515,F,Caucasian,HS
+HS_516,F,African American,HS
+HS_517,F,African American,HS
+HS_518,F,African American,HS
+HS_520,F,African American ,HS
+HS_523,F,African American ,HS
+HS_524,F,African American ,HS
+HS_525,M,Caucasian,HS
+HS_555,M,Caucasian,HS
+HS_573,F,Caucasian,HS
+HS_591,F,Caucasian,HS
+HS_598,M,Middle Eastern,HS
+HS_608,F,Caucasian,HS
+HS_609,F,African American,HS
+HS_621,M,Caucasian,HS
+HS_622,F,Caucasian,HS
+HS_624,F,Caucasian,HS
+HS_625,F,African American,HS
+HS_627,M,African American,HS
+HS_629,F,African American,HS
+HS_630,F,Caucasian,HS
+HS_632,M,Caucasian,HS
+HS_633,F,Caucasian,HS
+HS_634,F,Caucasian,HS
+HS_635,F,South Asian,HS
+HS_636,M,Caucasian,HS
+HS_637,F,Caucasian,HS
+HS_638,F,Hispanic,HS
+HS_640,F,African American,HS
+HS_641,F,African American,HS
+HS_645,F,African American,HS
+HS_647,F,Caucasian,HS
+HS_649,F,Hispanic/Latino,HS
+HS_650,F,Caucasian,HS
+HS_655,F,Caucasian,HS
+HS_656,F,Caucasian,HS
+HS_658,F,Caucasian,HS
+HS_661,M,African American,HS
+HS_662,F,African American,HS
+HS_663,F,Caucasian,HS
+HS_664,M,Caucasian,HS
+HS_665,F,Caucasian,HS
+HS_666,F,Caucasian,HS
+HS_667,F,African American,HS
+HS_668,F,African American,HS
+HS_669,M,Caucasian,HS
+HS_672,F,Caucasian,HS
+HS_673,F,American Indian/Alaskan Native,HS
+HS_674,F,Caucasian,HS
+HS_675,F,African American,HS
+HS_677,M,Caucasian,HS
+HS_678,M,African American,HS
+HS_680,F,Caucasian,HS
+HS_684,M,Caucasian,HS
+HS_686,F,Caucasian,HS
+HS_687,F,African American,HS
+HS_690,M,Caucasian,HS
+HS_693,F,Hispanic/Latino,HS
+HS_694,F,African American,HS
+HS_695,F,South Asian,HS
+HS_696,F,African American,HS
+HS_698,F,African American,HS
+HS_699,F,Caucasian,HS
+HS_700,M,African American,HS
+HS_701,F,Caucasian,HS
+HS_702,F,Caucasian,HS
+HS_703,F,Caucasian,HS
+HS_706,F,African American,HS
+HS_707,F,African American,HS
+HS_708,F,Caucasian,HS
+HS_710,F,Caucasian,HS
+HS_712,F,Caucasian,HS
+WSU_68,M,Caucasian,HS
+WSU_69,F,African American,HS
+WSU_111,F,Caucasian,HS
+WSU_119,M,African American,HS
+WSU_122,F,African American,HS
+WSU_124,F,African American,HS
+WSU_126,F,African American,HS
+WSU_135,F,Caucasian,HS
