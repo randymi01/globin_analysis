@@ -1,0 +1,6 @@
+1. Find proportion of raw counts that are aligned to hemoglobin genes in GC vs NGC
+2. Get a venn diagram of unique and shared genes between GC and NGC under the two conditions:
+	a. RAW READ COUNT THRESHOLD (gene is considered be counted if it has a raw reads sum > 0)
+	b. NORMALIZED COUNT THRESHOLD (FPKM > 1)
+		This is important because the number of aligned reads for the GC samples are much higher than NGC so much compare using a statistic that controls for library size.
+3. Using the normalized count threshold, extract list of genes ENSEMBL IDs that are: a. shared, b. GC Unique, c. NGC Unique

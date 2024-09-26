@@ -1,0 +1,3 @@
+https://www.biostars.org/p/279097/
+1. Do both GO and KEGG pathway analysis on the up and down regulated gene pathways and generate dot plots
+2. Do same on the unique genes for both GC and NGC

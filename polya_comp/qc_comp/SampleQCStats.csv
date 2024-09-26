@@ -1,0 +1,21 @@
+﻿Sample Name,Nucleic Acid ID,Concentration(ng/ul),Volume(ul),Total amount(ug),Integrity value,Sample QC Results,Sample Type,Rocks Path
+HS_644_PolyA,FKRN240165835-1A,67,24,1.608,7.5,Pass,Non-Globin Depleted,Skin
+HS_672_PolyA,FKRN240165836-1A,50,30,1.5,7.6,Pass,Non-Globin Depleted,Skin
+HS_678_PolyA,FKRN240165837-1A,55,32,1.76,6.7,Pass,Non-Globin Depleted,Skin
+HS_299_PolyA,FKRN240165838-1A,55,28,1.54,8.1,Pass,Non-Globin Depleted,Skin
+HS_694_PolyA,FKRN240165839-1A,49,29,1.421,8.5,Pass,Non-Globin Depleted,Skin
+HS_696_PolyA,FKRN240165840-1A,19,26,0.494,9.2,Pass,Non-Globin Depleted,Skin
+HS_698_PolyA,FKRN240165841-1A,35,27,0.945,8.3,Pass,Non-Globin Depleted,Skin
+HS_701_PolyA,FKRN240165842-1A,46,30,1.38,7.8,Pass,Non-Globin Depleted,Skin
+HS_702_PolyA,FKRN240165843-1A,25,39,0.975,8.6,Pass,Non-Globin Depleted,Skin
+HS_703_PolyA,FKRN240165844-1A,36,31,1.116,8.2,Pass,Non-Globin Depleted,Skin
+HS_644,FKRN240163137-1A,74,70,5.18,7.8,Pass,Globin Depleted,PBMC
+HS_672,FKRN240163156-1A,56,66,3.696,8.1,Pass,Globin Depleted,PBMC
+HS_678,FKRN240163161-1A,66,62,4.092,7.3,Pass,Globin Depleted,PBMC
+HS_299,FKRN240163168-1A,59,67,3.953,8.4,Pass,Globin Depleted,PBMC
+HS_694,FKRN240163169-1A,42,67,2.814,8.5,Pass,Globin Depleted,PBMC
+HS_696,FKRN240163171-1A,25,33,0.825,8.7,Pass,Globin Depleted,PBMC
+HS_698,FKRN240163172-1A,43,36,1.548,8.1,Pass,Globin Depleted,PBMC
+HS_701,FKRN240163175-1A,69,65,4.485,7.8,Pass,Globin Depleted,PBMC
+HS_702,FKRN240163176-1A,38,59,2.242,8.5,Pass,Globin Depleted,PBMC
+HS_703,FKRN240163177-1A,42,68,2.856,8.2,Pass,Globin Depleted,PBMC
