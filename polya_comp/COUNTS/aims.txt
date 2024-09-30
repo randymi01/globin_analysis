@@ -1,6 +1,10 @@
-1. Find proportion of raw counts that are aligned to hemoglobin genes in GC vs NGC
+1. Find proportion of raw counts that are aligned to hemoglobin genes in GC vs NGC, make bar chart like in Harrington 2020 by sample
+	b. Do it by Hg gene too (aggregate samples, compare by method)
 2. Get a venn diagram of unique and shared genes between GC and NGC under the two conditions:
 	a. RAW READ COUNT THRESHOLD (gene is considered be counted if it has a raw reads sum > 0)
-	b. NORMALIZED COUNT THRESHOLD (FPKM > 1)
+	b. NORMALIZED COUNT THRESHOLD (FPKM > 1, CPM > 1) (which one to use?)(write how many reads that corresponds to)
 		This is important because the number of aligned reads for the GC samples are much higher than NGC so much compare using a statistic that controls for library size.
+	c. For each unique portion, see what proportion of the raw read count threshold gets filtered out under the low count filter threshold
+	d. For those that survive the thresholding, see what the mean expression is via histogram, make a 2x2 histogram plot
 3. Using the normalized count threshold, extract list of genes ENSEMBL IDs that are: a. shared, b. GC Unique, c. NGC Unique
+	a. for each of those three categories make frequency fig (pie chart?) of non-coding (Short, Long, Other), coding (Hgb coding, Other protein Coding, TCR/IG, Psuedogene) (Harrington 2020 claims that a lot of the new genes after globin clear are non-coding)

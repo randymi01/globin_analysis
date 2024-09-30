@@ -1,5 +1,5 @@
-1. Filter for coding and lncRNA genes
+1. Filter for coding and non-coding, and manual filter out hemoglobin and not, and make volcano for four combos
 2. Find differentially expressed genes on shared genes using the design matrix X ~ GD + Patient
 	a. Make volcano plot
 	b. save dds and res as RDS
-3. Extract list of up and down regulated genes which have adj p-value < 0.05
+3. Color code by RNA type then make bar graph for up and down regulated significant DEGs (more than 1.5 LFC, p adj < 0.05)
