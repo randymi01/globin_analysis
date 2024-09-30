@@ -8,3 +8,5 @@
 	d. For those that survive the thresholding, see what the mean expression is via histogram, make a 2x2 histogram plot
 3. Using the normalized count threshold, extract list of genes ENSEMBL IDs that are: a. shared, b. GC Unique, c. NGC Unique
 	a. for each of those three categories make frequency fig (pie chart?) of non-coding (Short, Long, Other), coding (Hgb coding, Other protein Coding, TCR/IG, Psuedogene) (Harrington 2020 claims that a lot of the new genes after globin clear are non-coding)
+	b. Make double stacked histogram comparing CPM distribution for the manually globin removed (keep them in and see if they form their own clust) genes
+	of both GC and NGC split on coding non-coding
